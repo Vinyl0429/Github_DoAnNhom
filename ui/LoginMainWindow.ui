@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1031</width>
+    <height>574</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">;
+background-color: rgb(221, 221, 221);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>30</y>
+      <width>731</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+color: rgb(255, 255, 255);
+font: 14pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../images/login 2.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>80</y>
+      <width>471</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 45pt &quot;.VnBodoni&quot;;
+background-color: transparent;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;COFFEE&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignmentFlag::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEditUserName">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>260</y>
+      <width>301</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QlineEdit{
+ font: 16pt &quot;MS Shell Dlg 2&quot;;
+ border:2px solid rgb(38,38,48);
+ border-radius: 15px;
+ color:#FFF;
+ background-color: transparent;
+}
+QLineEdit:hover{
+border:2px solid rgb(38,38,48);
+background-color: rgba(255, 255, 255, 150);
+
+}
+QLineEdit:focus{
+ boder:2px soild rgb(35,218,233);
+background-color: rgba(255, 255, 255, 150);
+}
+</string>
+    </property>
+    <property name="placeholderText">
+     <string>Username</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonLogin">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>400</y>
+      <width>311</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+	background-color: rgb(39, 19, 11);
+  boder-radius:15px;
+  color: rgb(255, 255, 255);
+
+  font: 18pt &quot;.VnBodoni&quot;;
+	
+  
+}
+QPushButton:hover{
+  background-color: rgba(0, 0, 0, 150);
+  font: 18pt &quot;.VnBodoni&quot;;
+ }
+</string>
+    </property>
+    <property name="text">
+     <string>Login</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../icon/icon_login.svg</normaloff>../icon/icon_login.svg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>35</width>
+      <height>35</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonExit">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>450</y>
+      <width>311</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+	background-color: rgb(39, 19, 11);
+  boder-radius:15px;
+  color: rgb(255, 255, 255);
+
+  font: 18pt &quot;.VnBodoni&quot;;
+	
+  
+}
+QPushButton:hover{
+  background-color: rgba(0, 0, 0, 150);
+  font: 18pt &quot;.VnBodoni&quot;;
+ }
+QPushButton {
+	background-color: rgb(39, 19, 11);
+  boder-radius:15px;
+  color: rgb(255, 255, 255);
+
+  font: 18pt &quot;.VnBodoni&quot;;
+	
+  
+}
+QPushButton:hover{
+  background-color: rgba(0, 0, 0, 150);
+  font: 18pt &quot;.VnBodoni&quot;;
+ }
+</string>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../icon/icon_logout.svg</normaloff>../icon/icon_logout.svg</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>35</width>
+      <height>35</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButtonForget">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>350</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+color: rgb(255, 255, 255);
+font: 12pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Forget Password</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEditPassWord">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>310</y>
+      <width>301</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QlineEdit{
+ border:2px solid rgb(38,38,48);
+ border-radius: 15px;
+ color:#FFF;
+ background-color: transparent;
+}
+QLineEdit:hover{
+border:2px solid rgb(38,38,48);
+background-color: rgba(255, 255, 255, 150);
+
+}
+QLineEdit:focus{
+ boder:2px soild rgb(35,218,233);
+background-color: rgba(255, 255, 255, 150);
+}
+</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::EchoMode::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string>Password</string>
+    </property>
+    <property name="clearButtonEnabled">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>170</y>
+      <width>471</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 45pt &quot;.VnBodoni&quot;;
+background-color: transparent;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>BUSINESS</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignmentFlag::AlignCenter</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1031</width>
+     <height>33</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

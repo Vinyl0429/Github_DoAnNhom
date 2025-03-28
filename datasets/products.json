@@ -1,0 +1,576 @@
+[
+    {
+        "id": "CF002",
+        "name": "Americano",
+        "category": "Coffee",
+        "price": 45000,
+        "quantity": 8,
+        "image": "../images/americano.jpg",
+        "description": "A classic black coffee made with espresso and hot water.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF003",
+        "name": "Latte",
+        "category": "Coffee",
+        "price": 50000,
+        "quantity": 12,
+        "image": "../images/latte.jpg",
+        "description": "A smooth blend of espresso and steamed milk, topped with a light layer of foam.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF004",
+        "name": "Cappuccino",
+        "category": "Coffee",
+        "price": 50000,
+        "quantity": 15,
+        "image": "../images/cappuccino.jpg",
+        "description": "A rich espresso with equal parts steamed milk and foamed milk.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF005",
+        "name": "Mocha",
+        "category": "Coffee",
+        "price": 55000,
+        "quantity": 9,
+        "image": "../images/mocha.jpg",
+        "description": "A delicious blend of espresso, steamed milk, and chocolate syrup.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF006",
+        "name": "Macchiato",
+        "category": "Coffee",
+        "price": 50000,
+        "quantity": 7,
+        "image": "../images/macchiato.jpg",
+        "description": "An espresso with a small amount of steamed milk and foam.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF007",
+        "name": "Flat White",
+        "category": "Coffee",
+        "price": 50000,
+        "quantity": 11,
+        "image": "../images/flat_white.jpg",
+        "description": "A creamy espresso-based drink with steamed milk.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF008",
+        "name": "Affogato",
+        "category": "Coffee",
+        "price": 60000,
+        "quantity": 6,
+        "image": "../images/affogato.jpg",
+        "description": "A shot of hot espresso poured over a scoop of vanilla ice cream.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        ]
+    },
+    {
+        "id": "CF009",
+        "name": "Irish Coffee",
+        "category": "Coffee",
+        "price": 70000,
+        "quantity": 5,
+        "image": "../images/irish_coffee.jpg",
+        "description": "Coffee mixed with whiskey and topped with fresh cream.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "CF010",
+        "name": "Vietnamese Iced Coffee",
+        "category": "Coffee",
+        "price": 35000,
+        "quantity": 20,
+        "image": "../images/vietnamese_iced_coffee.jpg",
+        "description": "Rich and sweet Vietnamese iced milk coffee.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE001",
+        "name": "Green Tea",
+        "category": "Tea",
+        "price": 30000,
+        "quantity": 10,
+        "image": "../images/green_tea.jpg",
+        "description": "Refreshing pure green tea, good for health.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE002",
+        "name": "Black Tea",
+        "category": "Tea",
+        "price": 30000,
+        "quantity": 8,
+        "image": "../images/black_tea.jpg",
+        "description": "Strong-flavored black tea, helps alertness and supports heart health.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE003",
+        "name": "Oolong Tea",
+        "category": "Tea",
+        "price": 35000,
+        "quantity": 12,
+        "image": "../images/oolong_tea.jpg",
+        "description": "Light and smooth oolong tea with a naturally sweet aftertaste.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE004",
+        "name": "Chamomile Tea",
+        "category": "Tea",
+        "price": 40000,
+        "quantity": 15,
+        "image": "../images/chamomile_tea.jpg",
+        "description": "Mildly fragrant chamomile tea, promotes relaxation and better sleep.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE005",
+        "name": "Earl Grey Tea",
+        "category": "Tea",
+        "price": 35000,
+        "quantity": 9,
+        "image": "../images/earl_grey_tea.jpg",
+        "description": "Earl Grey tea with a signature bergamot aroma.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "TE006",
+        "name": "Matcha Latte",
+        "category": "Tea",
+        "price": 45000,
+        "quantity": 7,
+        "image": "../images/matcha_latte.jpg",
+        "description": "Matcha green tea blended with rich and creamy milk.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU005",
+        "name": "Watermelon Juice",
+        "category": "Juice",
+        "price": 40000,
+        "quantity": 9,
+        "image": "../images/watermelon_juice.jpg",
+        "description": "Refreshing fresh watermelon juice, rich in vitamin C.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU006",
+        "name": "Mango Smoothie",
+        "category": "Juice",
+        "price": 50000,
+        "quantity": 7,
+        "image": "../images/mango_smoothie.jpg",
+        "description": "Naturally sweet mango smoothie blended with fresh milk.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU007",
+        "name": "Strawberry Smoothie",
+        "category": "Juice",
+        "price": 50000,
+        "quantity": 11,
+        "image": "../images/strawberry_smoothie.jpg",
+        "description": "Fresh strawberry smoothie with a slight tartness, blended with yogurt.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU008",
+        "name": "Avocado Smoothie",
+        "category": "Juice",
+        "price": 55000,
+        "quantity": 6,
+        "image": "../images/avocado_smoothie.jpg",
+        "description": "Creamy avocado smoothie blended with condensed milk and fresh milk.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU009",
+        "name": "Coconut Water",
+        "category": "Juice",
+        "price": 35000,
+        "quantity": 5,
+        "image": "../images/coconut_water.jpg",
+        "description": "Fresh, natural coconut water with no added sugar.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    },
+    {
+        "id": "JU010",
+        "name": "Pomegranate Juice",
+        "category": "Juice",
+        "price": 60000,
+        "quantity": 20,
+        "image": "../images/pomegranate_juice.jpg",
+        "description": "Pure pomegranate juice, rich in antioxidants.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "sugar_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "ice_levels": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ]
+    }
+]

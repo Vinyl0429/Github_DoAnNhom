@@ -1,0 +1,112 @@
+[
+    {
+        "id": "N001",
+        "name": "Nguyễn Văn Huy",
+        "date_of_birth": "1990-02-15",
+        "phone_number": "0912345678",
+        "position": "Pha chế",
+        "employee_type": "Full-time",
+        "start_working_date": "2021-05-10",
+        "day_absence": null
+    },
+    {
+        "id": "N002",
+        "name": "Trần Thị Lan",
+        "date_of_birth": "1998-07-22",
+        "phone_number": "0923456789",
+        "position": "Phục vụ",
+        "employee_type": "Part-time",
+        "start_working_date": "2023-03-12",
+        "shifts_week": null
+    },
+    {
+        "id": "N003",
+        "name": "Lê Quốc Bảo",
+        "date_of_birth": "1985-11-10",
+        "phone_number": "0934567890",
+        "position": "Phục vụ",
+        "employee_type": "Full-time",
+        "start_working_date": "2020-08-01",
+        "day_absence": null
+    },
+    {
+        "id": "N004",
+        "name": "Phạm Minh Anh",
+        "date_of_birth": "2001-09-05",
+        "phone_number": "0945678901",
+        "position": "Pha chế",
+        "employee_type": "Part-time",
+        "start_working_date": "2022-06-18",
+        "shifts_week": null
+    },
+    {
+        "id": "N005",
+        "name": "Hoàng Thị Kim",
+        "date_of_birth": "1993-05-30",
+        "phone_number": "0956789012",
+        "position": "Thu ngân",
+        "employee_type": "Full-time",
+        "start_working_date": "2019-12-25",
+        "day_absence": null
+    },
+    {
+        "id": "N006",
+        "name": "Võ Thành Đạt",
+        "date_of_birth": "1988-03-12",
+        "phone_number": "0967890123",
+        "position": "Phục vụ",
+        "employee_type": "Full-time",
+        "start_working_date": "2018-07-10",
+        "day_absence": null
+    },
+    {
+        "id": "N007",
+        "name": "Lý Hồng Phúc",
+        "date_of_birth": "2002-01-18",
+        "phone_number": "0978901234",
+        "position": "Pha chế",
+        "employee_type": "Part-time",
+        "start_working_date": "2023-01-15",
+        "shifts_week": null
+    },
+    {
+        "id": "N008",
+        "name": "Đặng Minh Khoa",
+        "date_of_birth": "1995-06-22",
+        "phone_number": "0989012345",
+        "position": "Pha chế",
+        "employee_type": "Full-time",
+        "start_working_date": "2020-03-05",
+        "day_absence": null
+    },
+    {
+        "id": "N009",
+        "name": "Nguyễn Thanh Trúc",
+        "date_of_birth": "1999-10-10",
+        "phone_number": "0990123456",
+        "position": "Phục vụ",
+        "employee_type": "Part-time",
+        "start_working_date": "2022-09-30",
+        "shifts_week": null
+    },
+    {
+        "id": "N010",
+        "name": "Bùi Ngọc Duy",
+        "date_of_birth": "1986-12-25",
+        "phone_number": "0901234567",
+        "position": "Thu ngân",
+        "employee_type": "Full-time",
+        "start_working_date": "2017-11-15",
+        "day_absence": null
+    },
+    {
+        "id": "N0011",
+        "name": "Phạm Thị Hồng",
+        "date_of_birth": "2001-19-12",
+        "phone_number": "0903397241",
+        "position": "Thu ngân",
+        "employee_type": "Part-time",
+        "start_working_date": "2025-19-12",
+        "shifts_week": null
+    }
+]

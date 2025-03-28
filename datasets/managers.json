@@ -1,0 +1,32 @@
+[
+    {
+        "ManagerId": "M1",
+        "ManagerName": "Huỳnh Mai",
+        "UserName": "mai",
+        "Password": "146"
+    },
+    {
+        "ManagerId": "M2",
+        "ManagerName": "Lê Kim Khoa",
+        "UserName": "khoa",
+        "Password": "112"
+    },
+    {
+        "ManagerId": "M3",
+        "ManagerName": "Phạm Quang Vinh ",
+        "UserName": "vinh",
+        "Password": "294"
+    },
+    {
+        "ManagerId": "M4",
+        "ManagerName": "Lương Ngọc Tâm ",
+        "UserName": "tam",
+        "Password": "124"
+    },
+    {
+        "ManagerId": "M5",
+        "ManagerName": "Đỗ Thùy Trang",
+        "UserName": "trang",
+        "Password": "123"
+    }
+]
